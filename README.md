@@ -1,3 +1,10 @@
+### Important Metatags 
+performed procedure description (0040,0254)
+viewname (0008,2127)
+viewnumber (0008,2128)
+Stage name(0008,2120)
+protocol name(0018,1030)
+
 # Auto_Deid_Echo
 Semi Automated Deidentification of Echocardiography Dicoms
 
